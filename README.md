@@ -5,15 +5,15 @@ A full-stack expense tracking application built with React, Node.js, Express, an
 ## Features
 
 ## User Features
-- ✅ User Registration/Login with JWT authentication
-- ✅ Add/Edit/Delete Expenses
-- ✅ Categorize expenses (Food, Travel, Rent, etc.)
-- ✅ Filter by date, category, amount
-- ✅ Monthly summary and statistics
-- ✅ Visual graphs:
+- User Registration/Login with JWT authentication
+- Add/Edit/Delete Expenses
+- Categorize expenses (Food, Travel, Rent, etc.)
+- Filter by date, category, amount
+- Monthly summary and statistics
+- Visual graphs:
   - Pie chart (category-wise distribution)
   - Bar chart (monthly trends)
-- ✅ Responsive design with Tailwind CSS
+- Responsive design with Tailwind CSS
 
 ### Tech Stack
 
